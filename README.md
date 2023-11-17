@@ -3,9 +3,9 @@
 
 
 College Scorecard website: https://collegescorecard.ed.gov/<br>
--- College Scorecard Data web page: https://collegescorecard.ed.gov/data<br>
--- Documentation: https://collegescorecard.ed.gov/assets/InstitutionDataDocumentation.pdf<br>
--- Dataset: https://ed-public-download.app.cloud.gov/downloads/CollegeScorecard_Raw_Data_04192023.zip<br>
+College Scorecard Data web page: https://collegescorecard.ed.gov/data<br>
+Documentation: https://collegescorecard.ed.gov/assets/InstitutionDataDocumentation.pdf<br>
+Dataset: https://ed-public-download.app.cloud.gov/downloads/CollegeScorecard_Raw_Data_04192023.zip<br>
 
 
 Regression Problem
