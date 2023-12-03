@@ -1,5 +1,3 @@
-
-
 # College Graduation Rate Prediction Project
 
 ## Overview
