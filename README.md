@@ -1,4 +1,4 @@
-# Collegescorecard
+
 
 # College Graduation Rate Prediction Project
 
