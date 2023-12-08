@@ -23,7 +23,7 @@ The dataset comprises data from over 20 years, resulting in approximately 3200 c
 
 - **Phase 2: Deep Learning Models**
   - Following machine learning, deep learning models will be employed to enhance prediction accuracy.
-  - Models will include [RNN, LSTM, Transfer learning].
+  - Models will include [RNN, LSTM].
 
 ## Progress Updates
 I am actively working on this project, and updates will be posted here regularly. Be sure to check back every week to stay informed about the latest developments!
