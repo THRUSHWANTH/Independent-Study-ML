@@ -42,7 +42,7 @@ Detailed analyses were conducted on key models, such as RNN LSTM, Decision Tree 
 - The findings equip education stakeholders with actionable insights for strategic planning to boost student success and institutional performance.
 
 ## Total Findings
-For a comprehensive overview of the total findings and detailed insights, please refer to the [Final Report](final report.docx) included in this repository.
+For a comprehensive overview of the total findings and detailed insights, please refer to the [Final Report](final%20report.docx) included in this repository.
 
 ## References
 - "Introduction to Machine Learning," taught by Professor Masoud Soroush at UMBC.
