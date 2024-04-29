@@ -48,6 +48,7 @@ For a comprehensive overview of the total findings and detailed insights, please
 - "Introduction to Machine Learning," taught by Professor Masoud Soroush at UMBC.
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
 
-Feel free to contribute, provide feedback, or explore the detailed reports available in the repository, including Featureselection.ipynb, Models.ipynb, and the final report in final_report.docx. Thank you for visiting this repository! Stay tuned for more updates and insights.
+Feel free to contribute, provide feedback, or explore the detailed reports available in the repository, including Featureselection.ipynb, Models.ipynb, and the final report in final_report.docx. Thank you for visiting this repository.Keep Learning.
+
 
 
